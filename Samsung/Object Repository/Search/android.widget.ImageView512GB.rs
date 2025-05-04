@@ -1,0 +1,366 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MobileElementEntity>
+   <description></description>
+   <name>android.widget.ImageView512GB</name>
+   <tag></tag>
+   <elementGuidId>158ba3ab-b0b0-4de5-82bb-c4aa62e9bb4d</elementGuidId>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>android.widget.ImageView</value>
+      <webElementGuid>75f88c54-82b8-4494-934b-9a71a68a131b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>index</name>
+      <type>Main</type>
+      <value>1</value>
+      <webElementGuid>55d5ae07-4c1a-4386-86fe-4db168281a86</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>package</name>
+      <type>Main</type>
+      <value>com.samsung.ecomm</value>
+      <webElementGuid>49fa9c88-9d8a-4889-a0de-01ae11bebaa7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>content-desc</name>
+      <type>Main</type>
+      <value>Galaxy S25 Ultra
+From  
+$1189.99
+$1419.99   Save $230 
+or starting from $49.59/mo. for 24 mos with Samsung Financing
+4.8001
+ (7343)</value>
+      <webElementGuid>fe7d83bc-0b5e-4408-9935-320584474fbb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>checkable</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>1783b5c1-dfd2-4a91-a392-fe6715db9d9e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>checked</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>03bc2bf4-52be-4eb4-afc7-d96cc9d415e1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>clickable</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>f0622cff-03ee-4a50-98dc-7d8c15644049</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>enabled</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>cfed9a1e-f3e8-4908-be13-57aebd344014</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>focusable</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>47bf60e4-e895-44a9-b782-d4ac24256b82</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>focused</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>408a3a3e-48e8-497c-803c-bbca1866b549</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>scrollable</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>ff7e05a7-7a9f-42c9-ad0d-2d4dd873d1c5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>long-clickable</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>d24e3efd-eb92-4bfd-9fed-e35882d7de7e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>password</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>62c164a2-d8c2-43ff-98b8-c50ee1ef6b6a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>selected</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>f7204e6b-d370-4d58-845c-f0067688911f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>x</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>d7a264c2-350e-4d98-bbef-fdf6503aece4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>y</name>
+      <type>Main</type>
+      <value>600</value>
+      <webElementGuid>3cc0a230-8870-4f3c-ad69-39e5d3363d6c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>width</name>
+      <type>Main</type>
+      <value>1080</value>
+      <webElementGuid>6cfcb66f-6e0a-4f8e-a638-7e3c03a7d59a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>height</name>
+      <type>Main</type>
+      <value>492</value>
+      <webElementGuid>97c85253-d74f-4329-a840-7ffd99191e8c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>a11y-focused</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>5200450a-2820-4b82-b0e4-271a092f3ccb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>a11y-important</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>ed15a7bc-7ec6-4a5c-a063-80138fc1d3df</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>bounds</name>
+      <type>Main</type>
+      <value>[0,600][1080,1092]</value>
+      <webElementGuid>11e7ba1e-c813-4ab8-b2f6-9f8e40e7baf4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>content-invalid</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>2c48ed81-4f0d-489e-8ee9-19f0e2daf6ef</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>context-clickable</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>148df1f7-6c92-4f97-85cf-691002c3e4f9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>dismissable</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>86b8a0eb-6daa-43f0-9b5f-35c8ca376b04</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>displayed</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>44669e52-0134-44b8-a1fe-e67e5bf0d30d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>drawing-order</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>268c3718-d215-48e4-b480-ebd1007496ea</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>heading</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>02f3d560-0783-4e5b-b33e-034128f55ba0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>live-region</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>812c94e3-127b-403c-9709-2c934243e292</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>resource-id</name>
+      <type>Main</type>
+      <value></value>
+      <webElementGuid>66bb8e54-7594-4f6c-94a1-4650758018eb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>screen-reader-focusable</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>0e8c106a-cc40-495f-a906-2c0144f03a46</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>showing-hint</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>03c18798-51df-4a32-9146-47a261cae065</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value></value>
+      <webElementGuid>c1aa5367-6a64-4536-8e80-4cdbb07d9f37</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text-entry-key</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>644ddc6a-dd69-46b3-96bb-d98d4f9116c4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//hierarchy/android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.widget.FrameLayout[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[2]/android.widget.ScrollView[1]/android.widget.ImageView[1]</value>
+      <webElementGuid>826c6776-15e9-456c-8b1b-a70c8157c45d</webElementGuid>
+   </webElementProperties>
+   <locator>//*[@class = 'android.widget.ImageView' and @content-desc = 'Galaxy S25 Ultra
+From  
+$1189.99
+$1419.99   Save $230 
+or starting from $49.59/mo. for 24 mos with Samsung Financing
+4.8001
+ (7343)']</locator>
+   <locatorCollection>
+      <entry>
+         <key>ID</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>IOS_CLASS_CHAIN</key>
+         <value>**[`enabled == 1`]</value>
+      </entry>
+      <entry>
+         <key>IMAGE</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>ACCESSIBILITY</key>
+         <value>Galaxy S25 Ultra
+From  
+$1189.99
+$1419.99   Save $230 
+or starting from $49.59/mo. for 24 mos with Samsung Financing
+4.8001
+ (7343)</value>
+      </entry>
+      <entry>
+         <key>ANDROID_VIEWTAG</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>ATTRIBUTES</key>
+         <value>//*[@class = 'android.widget.ImageView' and @content-desc = 'Galaxy S25 Ultra
+From  
+$1189.99
+$1419.99   Save $230 
+or starting from $49.59/mo. for 24 mos with Samsung Financing
+4.8001
+ (7343)']</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//android.widget.ImageView[@class='android.widget.ImageView' and contains(@content-desc, 'Galaxy S25 Ultra')]&#xd;
+</value>
+      </entry>
+      <entry>
+         <key>CUSTOM</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>ANDROID_UI_AUTOMATOR</key>
+         <value>new UiSelector().className(&quot;android.widget.ImageView&quot;).description(&quot;Galaxy S25 Ultra
+From  
+$1189.99
+$1419.99   Save $230 
+or starting from $49.59/mo. for 24 mos with Samsung Financing
+4.8001
+ (7343)&quot;).resourceId(&quot;&quot;).packageName(&quot;com.samsung.ecomm&quot;).enabled(true).clickable(true).longClickable(false).checkable(false).checked(false).focusable(true).focused(false).scrollable(false).selected(false).index(1)</value>
+      </entry>
+      <entry>
+         <key>NAME</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>CLASS_NAME</key>
+         <value>android.widget.ImageView</value>
+      </entry>
+      <entry>
+         <key>IOS_PREDICATE_STRING</key>
+         <value>enabled == 1</value>
+      </entry>
+   </locatorCollection>
+   <locatorStrategy>ATTRIBUTES</locatorStrategy>
+   <platform>ANDROID</platform>
+</MobileElementEntity>
