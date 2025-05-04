@@ -1,0 +1,28 @@
+# KATALON STUDIO PROJECTS
+
+# Build and temp folders
+/bin/
+/Libs/
+/Reports/
+/tmp/
+/.settings/
+
+# Log files
+*.log
+
+# Ignore APK and other binary packages
+*.apk
+*.zip
+*.exe
+*.jar
+
+# Gradle build
+.gradle/
+build/
+
+# OS-specific and backup files
+.DS_Store
+Thumbs.db
+*.bak
+*.swp
+*.swo
