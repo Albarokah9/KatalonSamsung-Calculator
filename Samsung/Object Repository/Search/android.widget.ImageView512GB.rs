@@ -3,7 +3,7 @@
    <description></description>
    <name>android.widget.ImageView512GB</name>
    <tag></tag>
-   <elementGuidId>158ba3ab-b0b0-4de5-82bb-c4aa62e9bb4d</elementGuidId>
+   <elementGuidId>1dd8a438-3370-4288-af71-29010a17676f</elementGuidId>
    <selectorMethod>BASIC</selectorMethod>
    <smartLocatorEnabled>false</smartLocatorEnabled>
    <useRalativeImagePath>false</useRalativeImagePath>
@@ -13,7 +13,7 @@
       <name>class</name>
       <type>Main</type>
       <value>android.widget.ImageView</value>
-      <webElementGuid>75f88c54-82b8-4494-934b-9a71a68a131b</webElementGuid>
+      <webElementGuid>fd6dfa19-7272-447d-8ff8-b46b96a902fb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -21,7 +21,7 @@
       <name>index</name>
       <type>Main</type>
       <value>1</value>
-      <webElementGuid>55d5ae07-4c1a-4386-86fe-4db168281a86</webElementGuid>
+      <webElementGuid>95b3b9ee-f094-4cbe-b049-cc63ba295466</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -29,7 +29,7 @@
       <name>package</name>
       <type>Main</type>
       <value>com.samsung.ecomm</value>
-      <webElementGuid>49fa9c88-9d8a-4889-a0de-01ae11bebaa7</webElementGuid>
+      <webElementGuid>44492c4a-afcf-4838-95b6-edf0cc9fe5a4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -43,7 +43,7 @@ $1419.99   Save $230
 or starting from $49.59/mo. for 24 mos with Samsung Financing
 4.8001
  (7343)</value>
-      <webElementGuid>fe7d83bc-0b5e-4408-9935-320584474fbb</webElementGuid>
+      <webElementGuid>1c004bff-ea05-4804-9775-8ec7b7ca4921</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -51,7 +51,7 @@ or starting from $49.59/mo. for 24 mos with Samsung Financing
       <name>checkable</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>1783b5c1-dfd2-4a91-a392-fe6715db9d9e</webElementGuid>
+      <webElementGuid>66b17afe-3199-45e9-a4cf-86feb28327fe</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -59,7 +59,7 @@ or starting from $49.59/mo. for 24 mos with Samsung Financing
       <name>checked</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>03bc2bf4-52be-4eb4-afc7-d96cc9d415e1</webElementGuid>
+      <webElementGuid>8f73bcd8-c052-434c-af61-614be86bc77c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -67,7 +67,7 @@ or starting from $49.59/mo. for 24 mos with Samsung Financing
       <name>clickable</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>f0622cff-03ee-4a50-98dc-7d8c15644049</webElementGuid>
+      <webElementGuid>1e9c2586-0a55-4f08-ad0f-059bf4d53064</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -75,7 +75,7 @@ or starting from $49.59/mo. for 24 mos with Samsung Financing
       <name>enabled</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>cfed9a1e-f3e8-4908-be13-57aebd344014</webElementGuid>
+      <webElementGuid>8c5b2723-a5c4-4756-9aef-871eea020f0b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -83,7 +83,7 @@ or starting from $49.59/mo. for 24 mos with Samsung Financing
       <name>focusable</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>47bf60e4-e895-44a9-b782-d4ac24256b82</webElementGuid>
+      <webElementGuid>7a4376b2-33e1-4cec-8645-d6cc3b1526ea</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -91,7 +91,7 @@ or starting from $49.59/mo. for 24 mos with Samsung Financing
       <name>focused</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>408a3a3e-48e8-497c-803c-bbca1866b549</webElementGuid>
+      <webElementGuid>8fa578a7-d7be-4888-aa5a-76556ce56c7a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -99,7 +99,7 @@ or starting from $49.59/mo. for 24 mos with Samsung Financing
       <name>scrollable</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>ff7e05a7-7a9f-42c9-ad0d-2d4dd873d1c5</webElementGuid>
+      <webElementGuid>93f5ae96-5535-493d-98a9-3e4ef3b0b9fc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -107,7 +107,7 @@ or starting from $49.59/mo. for 24 mos with Samsung Financing
       <name>long-clickable</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>d24e3efd-eb92-4bfd-9fed-e35882d7de7e</webElementGuid>
+      <webElementGuid>8c59173f-6188-4db0-9b27-2f7273af41bc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -115,7 +115,7 @@ or starting from $49.59/mo. for 24 mos with Samsung Financing
       <name>password</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>62c164a2-d8c2-43ff-98b8-c50ee1ef6b6a</webElementGuid>
+      <webElementGuid>b66ff3bf-86e4-4c89-aef3-21cb43714f43</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -123,7 +123,7 @@ or starting from $49.59/mo. for 24 mos with Samsung Financing
       <name>selected</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>f7204e6b-d370-4d58-845c-f0067688911f</webElementGuid>
+      <webElementGuid>90fbd753-423b-45c2-964a-ae103211abce</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -131,7 +131,7 @@ or starting from $49.59/mo. for 24 mos with Samsung Financing
       <name>x</name>
       <type>Main</type>
       <value>0</value>
-      <webElementGuid>d7a264c2-350e-4d98-bbef-fdf6503aece4</webElementGuid>
+      <webElementGuid>ff60a291-458e-4b64-a19c-65d4ac5d139d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -139,7 +139,7 @@ or starting from $49.59/mo. for 24 mos with Samsung Financing
       <name>y</name>
       <type>Main</type>
       <value>600</value>
-      <webElementGuid>3cc0a230-8870-4f3c-ad69-39e5d3363d6c</webElementGuid>
+      <webElementGuid>ffde89d8-1975-4fb3-83ee-8dba57ead5fb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -147,7 +147,7 @@ or starting from $49.59/mo. for 24 mos with Samsung Financing
       <name>width</name>
       <type>Main</type>
       <value>1080</value>
-      <webElementGuid>6cfcb66f-6e0a-4f8e-a638-7e3c03a7d59a</webElementGuid>
+      <webElementGuid>856b63b6-6707-4be8-97b6-0582e6e56750</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -155,7 +155,7 @@ or starting from $49.59/mo. for 24 mos with Samsung Financing
       <name>height</name>
       <type>Main</type>
       <value>492</value>
-      <webElementGuid>97c85253-d74f-4329-a840-7ffd99191e8c</webElementGuid>
+      <webElementGuid>829b5a2f-8c8a-4ba5-8da8-c445627d4d87</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -163,7 +163,7 @@ or starting from $49.59/mo. for 24 mos with Samsung Financing
       <name>a11y-focused</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>5200450a-2820-4b82-b0e4-271a092f3ccb</webElementGuid>
+      <webElementGuid>06fa4e51-a958-4a6c-9dd1-1f8ee13ff01c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -171,7 +171,7 @@ or starting from $49.59/mo. for 24 mos with Samsung Financing
       <name>a11y-important</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>ed15a7bc-7ec6-4a5c-a063-80138fc1d3df</webElementGuid>
+      <webElementGuid>8adcdf6f-9090-497e-a159-5bdfc42d0caa</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -179,7 +179,7 @@ or starting from $49.59/mo. for 24 mos with Samsung Financing
       <name>bounds</name>
       <type>Main</type>
       <value>[0,600][1080,1092]</value>
-      <webElementGuid>11e7ba1e-c813-4ab8-b2f6-9f8e40e7baf4</webElementGuid>
+      <webElementGuid>3b2e949b-cdb3-4f05-bd73-0ceff7ecaf78</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -187,7 +187,7 @@ or starting from $49.59/mo. for 24 mos with Samsung Financing
       <name>content-invalid</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>2c48ed81-4f0d-489e-8ee9-19f0e2daf6ef</webElementGuid>
+      <webElementGuid>68cc2026-b34c-403e-8cc8-e1612ad83f13</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -195,7 +195,7 @@ or starting from $49.59/mo. for 24 mos with Samsung Financing
       <name>context-clickable</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>148df1f7-6c92-4f97-85cf-691002c3e4f9</webElementGuid>
+      <webElementGuid>af6e5229-557f-4255-9237-9b69601a6090</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -203,7 +203,7 @@ or starting from $49.59/mo. for 24 mos with Samsung Financing
       <name>dismissable</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>86b8a0eb-6daa-43f0-9b5f-35c8ca376b04</webElementGuid>
+      <webElementGuid>1a2e50ca-53e0-4222-bd2a-c6a7efb75527</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -211,7 +211,7 @@ or starting from $49.59/mo. for 24 mos with Samsung Financing
       <name>displayed</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>44669e52-0134-44b8-a1fe-e67e5bf0d30d</webElementGuid>
+      <webElementGuid>9f449a9d-ea85-4430-8b81-a2dc12f9f246</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -219,7 +219,7 @@ or starting from $49.59/mo. for 24 mos with Samsung Financing
       <name>drawing-order</name>
       <type>Main</type>
       <value>0</value>
-      <webElementGuid>268c3718-d215-48e4-b480-ebd1007496ea</webElementGuid>
+      <webElementGuid>d048ac7c-3f43-4d4f-9151-031e5114d208</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -227,7 +227,7 @@ or starting from $49.59/mo. for 24 mos with Samsung Financing
       <name>heading</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>02f3d560-0783-4e5b-b33e-034128f55ba0</webElementGuid>
+      <webElementGuid>bed00f7e-cc8e-442f-8fef-f513231eb894</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -235,7 +235,7 @@ or starting from $49.59/mo. for 24 mos with Samsung Financing
       <name>live-region</name>
       <type>Main</type>
       <value>0</value>
-      <webElementGuid>812c94e3-127b-403c-9709-2c934243e292</webElementGuid>
+      <webElementGuid>980e3b94-2c22-4ad2-b1c4-547f053db1c1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -243,7 +243,7 @@ or starting from $49.59/mo. for 24 mos with Samsung Financing
       <name>resource-id</name>
       <type>Main</type>
       <value></value>
-      <webElementGuid>66bb8e54-7594-4f6c-94a1-4650758018eb</webElementGuid>
+      <webElementGuid>2c437616-1d07-4f1c-b978-840d2f1d1cbd</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -251,7 +251,7 @@ or starting from $49.59/mo. for 24 mos with Samsung Financing
       <name>screen-reader-focusable</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>0e8c106a-cc40-495f-a906-2c0144f03a46</webElementGuid>
+      <webElementGuid>9277e7d4-f977-486a-8e30-985a478c72d4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -259,7 +259,7 @@ or starting from $49.59/mo. for 24 mos with Samsung Financing
       <name>showing-hint</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>03c18798-51df-4a32-9146-47a261cae065</webElementGuid>
+      <webElementGuid>906e2910-a130-47f9-8927-8616d96fa23b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -267,7 +267,7 @@ or starting from $49.59/mo. for 24 mos with Samsung Financing
       <name>text</name>
       <type>Main</type>
       <value></value>
-      <webElementGuid>c1aa5367-6a64-4536-8e80-4cdbb07d9f37</webElementGuid>
+      <webElementGuid>4f492633-3f9c-43ad-941a-2af5842174aa</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -275,7 +275,7 @@ or starting from $49.59/mo. for 24 mos with Samsung Financing
       <name>text-entry-key</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>644ddc6a-dd69-46b3-96bb-d98d4f9116c4</webElementGuid>
+      <webElementGuid>c3a7169f-ecbc-45d9-9c4e-c4bb6d7450ed</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -283,40 +283,13 @@ or starting from $49.59/mo. for 24 mos with Samsung Financing
       <name>xpath</name>
       <type>Main</type>
       <value>//hierarchy/android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.widget.FrameLayout[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[2]/android.widget.ScrollView[1]/android.widget.ImageView[1]</value>
-      <webElementGuid>826c6776-15e9-456c-8b1b-a70c8157c45d</webElementGuid>
+      <webElementGuid>f28d5d6d-3a52-453e-a685-79f1a9666ae9</webElementGuid>
    </webElementProperties>
-   <locator>//*[@class = 'android.widget.ImageView' and @content-desc = 'Galaxy S25 Ultra
-From  
-$1189.99
-$1419.99   Save $230 
-or starting from $49.59/mo. for 24 mos with Samsung Financing
-4.8001
- (7343)']</locator>
+   <locator>//android.widget.ImageView[@class='android.widget.ImageView' and contains(@content-desc, 'Galaxy S25 Ultra')]&#xd;
+</locator>
    <locatorCollection>
       <entry>
          <key>ID</key>
-         <value></value>
-      </entry>
-      <entry>
-         <key>IOS_CLASS_CHAIN</key>
-         <value>**[`enabled == 1`]</value>
-      </entry>
-      <entry>
-         <key>IMAGE</key>
-         <value></value>
-      </entry>
-      <entry>
-         <key>ACCESSIBILITY</key>
-         <value>Galaxy S25 Ultra
-From  
-$1189.99
-$1419.99   Save $230 
-or starting from $49.59/mo. for 24 mos with Samsung Financing
-4.8001
- (7343)</value>
-      </entry>
-      <entry>
-         <key>ANDROID_VIEWTAG</key>
          <value></value>
       </entry>
       <entry>
@@ -330,12 +303,46 @@ or starting from $49.59/mo. for 24 mos with Samsung Financing
  (7343)']</value>
       </entry>
       <entry>
+         <key>CUSTOM</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>NAME</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>IOS_PREDICATE_STRING</key>
+         <value>enabled == 1</value>
+      </entry>
+      <entry>
+         <key>ACCESSIBILITY</key>
+         <value>Galaxy S25 Ultra
+From  
+$1189.99
+$1419.99   Save $230 
+or starting from $49.59/mo. for 24 mos with Samsung Financing
+4.8001
+ (7343)</value>
+      </entry>
+      <entry>
+         <key>IMAGE</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>CLASS_NAME</key>
+         <value>android.widget.ImageView</value>
+      </entry>
+      <entry>
+         <key>IOS_CLASS_CHAIN</key>
+         <value>**[`enabled == 1`]</value>
+      </entry>
+      <entry>
          <key>XPATH</key>
          <value>//android.widget.ImageView[@class='android.widget.ImageView' and contains(@content-desc, 'Galaxy S25 Ultra')]&#xd;
 </value>
       </entry>
       <entry>
-         <key>CUSTOM</key>
+         <key>ANDROID_VIEWTAG</key>
          <value></value>
       </entry>
       <entry>
@@ -348,19 +355,7 @@ or starting from $49.59/mo. for 24 mos with Samsung Financing
 4.8001
  (7343)&quot;).resourceId(&quot;&quot;).packageName(&quot;com.samsung.ecomm&quot;).enabled(true).clickable(true).longClickable(false).checkable(false).checked(false).focusable(true).focused(false).scrollable(false).selected(false).index(1)</value>
       </entry>
-      <entry>
-         <key>NAME</key>
-         <value></value>
-      </entry>
-      <entry>
-         <key>CLASS_NAME</key>
-         <value>android.widget.ImageView</value>
-      </entry>
-      <entry>
-         <key>IOS_PREDICATE_STRING</key>
-         <value>enabled == 1</value>
-      </entry>
    </locatorCollection>
-   <locatorStrategy>ATTRIBUTES</locatorStrategy>
+   <locatorStrategy>XPATH</locatorStrategy>
    <platform>ANDROID</platform>
 </MobileElementEntity>

@@ -39,8 +39,6 @@ Mobile.tap(findTestObject('Search/android.widget.ImageViewGalaxyS'), 0)
 
 Mobile.waitForElementPresent(findTestObject('Search/android.widget.ImageView512GB'), 10)
 
-Mobile.delay(5)
-
 Mobile.tap(findTestObject('Search/android.widget.ImageView512GB'), 0)
 
 Mobile.scrollToText('Yes, trade-in', FailureHandling.STOP_ON_FAILURE)
@@ -67,7 +65,7 @@ Mobile.delay(2)
 
 Mobile.tap(findTestObject('Search/android.widget.Button - Skip add-ons'), 0)
 
-Mobile.scrollToText('Total Savings', FailureHandling.STOP_ON_FAILURE)
+Mobile.scrollToText('Estimated Total', FailureHandling.STOP_ON_FAILURE)
 
 Mobile.tap(findTestObject('Search/android.widget.Button - Checkout'), 0)
 
